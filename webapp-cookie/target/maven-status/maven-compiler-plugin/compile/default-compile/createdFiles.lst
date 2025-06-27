@@ -1,0 +1,5 @@
+org\codexdei\apiservlet\webapp\headers\controllers\ProductServlet.class
+org\codexdei\apiservlet\webapp\headers\services\ProductServiceImpl.class
+org\codexdei\apiservlet\webapp\headers\controllers\LoginServlent.class
+org\codexdei\apiservlet\webapp\headers\services\ProductService.class
+org\codexdei\apiservlet\webapp\headers\models\Product.class
